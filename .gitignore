@@ -25,3 +25,4 @@ cover/
 htmlcov/
 .cache/
 .coverage
+.idea/*
